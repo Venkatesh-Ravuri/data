@@ -1,0 +1,6 @@
+srno,name,pincode,city,branch,marks
+1,satish,534250,palakol,it,379
+2,mouli,533251,lanka,ece,350
+3,raja,533242,razole,mech,400
+4,yesh,534320,penugonda,aiml,375
+5,chaitu,533233,ravulapalem,cse,327
